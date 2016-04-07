@@ -1,5 +1,5 @@
 # Compass
 
-implement with C++
-find shortest path and its cost
-simple error handling is supported
+implement with C++\n
+find shortest path and its cost\n
+simple error handling is supported\n
